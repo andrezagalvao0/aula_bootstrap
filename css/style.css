@@ -3,7 +3,7 @@ body{
 }
 
 .navbar{
-    background-color: #298A08;
+    background-color: #E0F8E6;
 }
 
 .quem-somos{
@@ -20,4 +20,9 @@ body{
 
 .parceiros{
     background-color: #58FAFA;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
